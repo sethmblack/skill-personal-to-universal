@@ -4,7 +4,8 @@ description: Transform abstract social issues or generic statements into undenia
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4670
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
