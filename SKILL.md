@@ -3,8 +3,8 @@ name: personal-to-universal
 description: Transform abstract social issues or generic statements into undeniable truths by grounding them in specific personal experiences, then showing how the personal story reveals universal systemic real...
 license: MIT
 metadata:
+  version: 1.0.4671
   author: sethmblack
-  version: 1.0.4670
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
